@@ -1,0 +1,6 @@
+github.com/torikallcode/module-hello-world v1.0.0 h1:MLTQqaVPCjH+ZK84pHZL/Z4Qc8clvxGsg3oszoAi8yo=
+github.com/torikallcode/module-hello-world v1.0.0/go.mod h1:QWqSmH+27+kPv/LBSViqQaGpVZKlm7xRPcGqDAMt8eY=
+github.com/torikallcode/module-hello-world v1.0.1 h1:HmZkLGI5reZx/HVgOuP1lil2vO4pzJMdjcHYLMy2cMw=
+github.com/torikallcode/module-hello-world v1.0.1/go.mod h1:QWqSmH+27+kPv/LBSViqQaGpVZKlm7xRPcGqDAMt8eY=
+github.com/torikallcode/module-hello-world/v2 v2.0.1 h1:gi17iT4TgRbcAy2k4F3E3cpWppyKIT+/lViQwiYFJVQ=
+github.com/torikallcode/module-hello-world/v2 v2.0.1/go.mod h1:v3JWHQHLw9N2q4UkAy4bNYRJW5l7Bx3srfjx28PqnqU=
